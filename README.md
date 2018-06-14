@@ -11,3 +11,6 @@ Different access for admin and users.  Admin : Add, update and delete the book i
 availability of the book.  Users : Explore books based on their interests , filter the search criterias 
 according to their interests, purchase books  Payment gateway for purchasing copy of books
 
+Technology Used: 
+Front-end development: Angular JS,Angular CLI, Bootstrap, HTML5
+Back-end development: Java Spring boot Framework, MySQL,Hibernate, Redis
